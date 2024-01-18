@@ -1,0 +1,3 @@
+/home/marcel/Desktop/An3/egc/lab/gfx-framework-master/build/CMakeFiles/GFXFramework.dir
+/home/marcel/Desktop/An3/egc/lab/gfx-framework-master/build/CMakeFiles/edit_cache.dir
+/home/marcel/Desktop/An3/egc/lab/gfx-framework-master/build/CMakeFiles/rebuild_cache.dir
